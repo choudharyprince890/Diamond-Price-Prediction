@@ -1,3 +1,9 @@
 flask
 numpy
 pandas
+matplotlib
+ipykernal
+seaborn
+scikit-learn
+
+-e .
