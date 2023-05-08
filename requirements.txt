@@ -2,8 +2,8 @@ flask
 numpy
 pandas
 matplotlib
-ipykernal
-seaborn
 scikit-learn
+seaborn
+ipykernal
 
--e .
+-e . #create package in the current directory
